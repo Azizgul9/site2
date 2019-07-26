@@ -39,4 +39,46 @@ header{
 	font-size: 34px;
 	text-decoration: none;
 }
-
+.robin{
+	background: #bc3183;
+}
+.cover{
+	background: #27212c;
+	color: #9282a0;
+	font-size: 30px;
+	width: 70%;
+	padding: 50px;
+}
+img{
+	display: block;
+}
+.info-block{
+	padding: 30px 40px 40px 40px;
+	background: #ebebeb
+}
+.info-block h3{
+	margin: 0;
+	color: #088ca5;
+	font-size: 30px;
+	font-weight: normal;
+}
+.info-block p{
+	margin: 30px 0;
+	font-size: 24px;
+	line-height: 36px;
+	color: #515151
+}
+footer{
+	background: #373c3f;
+	color: #eee;
+	font-size: 16px;
+}
+footer .container{
+	padding: 30px 50px;
+	box-sizing: border-box;
+}
+footer a{
+	color: #eee;
+	font-size: 16px;
+	text-decoration: none;
+}
